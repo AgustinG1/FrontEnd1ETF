@@ -1,0 +1,12 @@
+node_modules/
+dist/
+evidencias/
+entregas/
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+*.log
+# Fotografías originales; se incluyen solo las usadas en public/assets/img.
+/*.jpg
