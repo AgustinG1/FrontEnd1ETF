@@ -1,10 +1,17 @@
 # Tienda PCGames
 
-Proyecto académico ETF S9 de Desarrollo Frontend I (PFY2201): tienda de videojuegos, consolas y accesorios.
+Proyecto desarrollado para:
+
+**Desarrollo Frontend I — PFY2201**  
+Duoc UC
+
+Evaluación Final Transversal (EFT), semana 9: tienda de videojuegos, consolas y accesorios.
+
+[Ver Tienda PCGames](https://agusting1.github.io/FrontEnd1ETF/)
 
 ## Tecnologías y funciones
 
-React, JavaScript, Vite y Bootstrap 5. Componentes conectados mediante props; `useState` gestiona catálogo, filtros, carrito y formulario, y `useEffect` carga el JSON mediante `fetch`.
+HTML5, CSS3, JavaScript, React, Bootstrap 5 y Vite. Componentes conectados mediante props; `useState` gestiona catálogo, filtros, carrito y formulario, y `useEffect` carga el JSON mediante `fetch`.
 
 - Búsqueda por nombre y filtros por categoría o género.
 - Carrusel con controles y pausa.
