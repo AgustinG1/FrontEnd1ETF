@@ -43,6 +43,3 @@ Busca productos, cambia filtros, agrega al carrito y prueba el formulario. «Adm
 
 `src/components/`: interfaz. `src/utils/`: funciones y validaciones. `public/productos.json`: catálogo. `public/assets/img/`: imágenes. `tests/`: pruebas.
 
-## Imágenes
-
-Fotos ilustrativas de Unsplash: Sam Pak, Compagnons, Melt3D Works, Evija Martina, Zoshua Colah, Rebekah Yip, Kari Shea, Stefen Tan, Mike Meyers, Denise Jans, Devan Morgan y Billy Freeman. No son carátulas oficiales.
